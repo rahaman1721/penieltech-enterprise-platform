@@ -1,13 +1,13 @@
-# Peniel Technology — Enterprise ERP Solutions & Corporate Web Platform
+# Enterprise ERP Solutions & Corporate Web Platform
 
-[![Live Site](https://img.shields.io/badge/Live-penieltech.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.penieltech.com/)
+[![Live Site](https://img.shields.io/badge/Live-Corporate_Portal-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.penieltech.com/)
 [![Frontend](https://img.shields.io/badge/Frontend-React_19_•_TypeScript_•_Tailwind_CSS-38bdf8?style=for-the-badge&logo=react&logoColor=white)](https://github.com/rahaman1721)
 [![Domain](https://img.shields.io/badge/Domain-Enterprise_ERP_•_UAE_FinTech-059669?style=for-the-badge)](https://www.penieltech.com/)
 [![Location](https://img.shields.io/badge/Region-Dubai_•_UAE-ea580c?style=for-the-badge)](https://www.penieltech.com/)
 
 ## Overview
 
-Comprehensive enterprise web platform and digital solutions portal for **Peniel Technology LLC**, a premier authorized business software dealer, ERP implementation partner, and IT Annual Maintenance Contract (AMC) solutions provider headquartered in **Dubai, United Arab Emirates**.
+Comprehensive enterprise web platform and digital solutions portal for a premier authorized business software dealer, ERP implementation partner, and IT Annual Maintenance Contract (AMC) solutions provider headquartered in **Dubai, United Arab Emirates**.
 
 The platform is engineered to support thousands of corporate enterprise clients across the Middle East, delivering real-time solution matrices, certified partner ecosystems, interactive tax assessment engines, and direct consulting consultation funnels.
 
@@ -15,7 +15,7 @@ The platform is engineered to support thousands of corporate enterprise clients 
 
 ## 🌐 Live Corporate Website
 
-🌍 **[https://www.penieltech.com/](https://www.penieltech.com/)**
+🌍 **[Launch Live Corporate Web Platform](https://www.penieltech.com/)**
 
 ---
 
@@ -23,7 +23,7 @@ The platform is engineered to support thousands of corporate enterprise clients 
 
 ### 1. Modern Frontend Architecture
 - **Tech Stack:** Engineered with **React 19**, **TypeScript**, and **Tailwind CSS** for ultra-responsive rendering, strict type-safety, and modular component boundaries.
-- **Legacy Route Preservation:** Implemented specialized routing adapters ensuring legacy .php URL structures (e.g., /careers.php, /contact.php) resolve without breaking Google search authority, backlinks, or historical organic indexing.
+- **Legacy Route Preservation:** Implemented specialized routing adapters ensuring legacy .php URL structures (e.g., `/careers.php`, `/contact.php`) resolve without breaking Google search authority, backlinks, or historical organic indexing.
 
 ### 2. Interactive Financial & Tax Calculators
 - **Live UAE VAT Calculator:** Interactive tax computation engine processing 5% Value Added Tax across inclusive and exclusive transaction amounts.
@@ -58,10 +58,16 @@ The platform is engineered to support thousands of corporate enterprise clients 
 
 ---
 
-## 📋 Case Study Summary
+## 👨‍💻 Author
 
-This repository serves as an architectural case study and technical documentation for the Peniel Technology corporate web portal. Proprietary client databases and server infrastructure remain protected under non-disclosure agreements.
+**Obaidhur Rahaman**  
+Full Stack Developer & Lead UI/UX Designer  
 
----
+- 🌐 **Portfolio**: [https://rahaman1721.framer.website](https://rahaman1721.framer.website)  
+- 🐙 **GitHub**: [@rahaman1721](https://github.com/rahaman1721)  
+- 💼 **LinkedIn**: [linkedin.com/in/obaidhur-rahaman-1721z](https://www.linkedin.com/in/obaidhur-rahaman-1721z)  
+- 📧 **Email**: [rahaman171920@gmail.com](mailto:rahaman171920@gmail.com)  
 
-**Obaidhur Rahaman** | [rahaman1721.framer.website](https://rahaman1721.framer.website) | [LinkedIn](https://www.linkedin.com/in/obaidhur-rahaman-1721z) | [GitHub](https://github.com/rahaman1721)
+<div align="center">
+  <sub>Designed & Developed with precision by Obaidhur Rahaman © 2026</sub>
+</div>
