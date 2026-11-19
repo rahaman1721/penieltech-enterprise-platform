@@ -5,6 +5,9 @@
 [![Domain](https://img.shields.io/badge/Domain-Enterprise_ERP_•_UAE_FinTech-059669?style=for-the-badge)](https://www.penieltech.com/)
 [![Location](https://img.shields.io/badge/Region-Dubai_•_UAE-ea580c?style=for-the-badge)](https://www.penieltech.com/)
 
+> [!NOTE]
+> **Enterprise NDA Notice:** This repository represents public architectural specifications, system design workflows, and case studies. In strict compliance with client non-disclosure agreements (NDA), proprietary commercial source code, enterprise client databases, and internal enterprise portal credentials have been strictly omitted.
+
 ## Overview
 
 Comprehensive enterprise web platform and digital solutions portal for a premier authorized business software dealer, ERP implementation partner, and IT Annual Maintenance Contract (AMC) solutions provider headquartered in **Dubai, United Arab Emirates**.
